@@ -127,7 +127,7 @@ h2{
 .red p{
     margin: 10px;
     text-indent: 50px;
-    text-align: inherit;
+    text-align: justify;
     letter-spacing: 3px;
 }
 
