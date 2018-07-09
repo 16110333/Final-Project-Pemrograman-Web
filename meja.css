@@ -23,36 +23,7 @@ body
 }
 
 
-.menu
-{
 
-    float: right;
-    list-style: none;
-    margin: 20px;
-}
-
-.menu li
-{
-    display: inline-block;
-    margin: 10px 5px;
-}
-
-.menu li a
-{
-    text-decoration: none;
-    color: black;
-    padding: 5px 10px;
-    border-radius: 12px;
-    font-family: sans-serif;
-    letter-spacing: 2px;
-} 
-
-.menu li a:hover
-{
-    background: #66bbf1;
-    transition: .3s;
-    color: white;
-}
 
 
 li a, .dropbtn {
