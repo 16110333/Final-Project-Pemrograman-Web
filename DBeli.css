@@ -114,9 +114,9 @@ textarea{
     height: 150px;
 }
 .cart-btn{
-	background-color:grey;
+	background-color:white;
 	border-radius:6px;
-	color:white;
+	color:black;
 	text-decoration:none;
 	padding:12px 30px;
 	transition:all .5s;
