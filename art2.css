@@ -121,13 +121,13 @@ li.dropdown {
 
 div.gallery {
     margin: 5px;
-    border: 1px solid #ccc;
+    border: 1px solid black;
     float: left;
     width: 272px;
 }
 
 div.gallery:hover {
-    border: 1px solid #777;
+    border: 1px solid #DBD8D8;
 }
 
 div.gallery img {
