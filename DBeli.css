@@ -113,44 +113,14 @@ textarea{
     margin: 8px 0;
     height: 150px;
 }
-.btn
-{
-    font-size: 20px;
-    letter-spacing: 2px;
-    margin: 5px;
-    padding: 7px 10px;
-    text-decoration: none;
-    border: 2px solid #fff;
-    border-radius: 20px;
-    font-family: sans-serif;
+.cart-btn{
+	background-color:grey;
+	border-radius:6px;
+	color:white;
+	text-decoration:none;
+	padding:12px 30px;
+	transition:all .5s;
 }
-
-.btn-one
-{
-    color: white;
-    transition: .3s;
-}
-
-.btn-one:hover
-{
-    background: #66bbf1;
-    transition: .3s;
-}
-
-input[type=submit]{
-    font-size: 18px;
-    letter-spacing: 2px;
-    margin: 5px;
-    padding: 7px 10px;
-    text-decoration: none;
-    border: 2px solid #fff;
-    border-radius: 10px;
-    font-family: sans-serif;
-    color: black;
-    transition: .3s;
-}
-
-input[type=submit]:hover{
-    background: #66bbf1;
-    transition: .3s;
+.cart-btn:hover{
+	background-color:#66bbf1;
 }
