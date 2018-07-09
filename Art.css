@@ -142,3 +142,7 @@ div.desc {
     font-size: 20px;
     font-family: sans-serif;
 }
+
+div.desc:hover {
+    color: #66bbf1;
+}
