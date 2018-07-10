@@ -20,7 +20,6 @@ body
 {
     width: 100%;
     height: 70px;
-    background-color: grey;
 }
 
 .logo{
@@ -45,7 +44,7 @@ body
 .menu li a
 {
     text-decoration: none;
-    color: white;
+    color: black;
     padding: 5px 10px;
     border-radius: 12px;
     font-family: sans-serif;
@@ -56,7 +55,7 @@ body
 {
     background: #66bbf1;
     transition: .3s;
-    color: white;
+    color: black;
 }
 
 
