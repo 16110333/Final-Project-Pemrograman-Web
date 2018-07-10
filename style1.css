@@ -106,9 +106,10 @@ li.dropdown {
 
 .welcome h2
 {
-    font-size: 50px;
+    font-size: 55px;
     margin: 25px;
     font-family:Bradley Hand ITC;
+    color: white;
 }
 
 .btn
@@ -257,13 +258,13 @@ li.dropdown {
 /*Proyek*/
 div.gallery {
     margin: 5px;
-    border: 1px solid #ccc;
+    border: 1px solid black;
     float: left;
     width: 272px;
 }
 
 div.gallery:hover {
-    border: 1px solid #777;
+    border: 1px solid #E7E6E6;
 }
 
 div.gallery img {
