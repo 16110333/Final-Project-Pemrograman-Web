@@ -7,7 +7,7 @@
 
 body
 {
-    background-color: grey;
+    background:white;
     background-repeat: no-repeat;
     height: 100vh;
     background-size: cover;
@@ -102,7 +102,9 @@ li.dropdown {
 .dropdown:hover .dropdown-content {
     display: block;
 }
+html, body{
 
+}
 .container{
 	max-width:1200px;
 	margin:0 auto;
