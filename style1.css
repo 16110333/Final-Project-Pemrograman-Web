@@ -459,12 +459,3 @@ div.desc {
 	.slides-navigation {display: none;}
 	
 }
-
-@media(max-width:320px ){
-	.slider_caption > h2 {font-size: 15px;line-height: 18px;}
-	.single_service > .service_title:after {left: 29%;}
-	.blog_slider .slick-prev {left: 70.5%;}
-	.subscr_btn {font-size: 11px;}
-	.slider_caption {margin-top: 34%;}  
-	
-}
